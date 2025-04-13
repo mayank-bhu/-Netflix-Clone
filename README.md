@@ -22,6 +22,8 @@ Backend: Firebase Authentication, Firestore
 
 API: The Movie Database (TMDB) API
 
+Site Link: https://symphonious-profiterole-096124.netlify.app/
+
 📦 Setup Instructions
 ![netflix-bg](https://github.com/user-attachments/assets/e8c51a34-684f-4fbf-9c36-b487ebfab2ac)
 

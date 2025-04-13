@@ -1,5 +1,5 @@
 # -Netflix-Clone
-A full-stack Netflix clone built with modern web technologies, replicating the core features of the original platform. Users can browse, search, and stream movie trailers, view featured content, and manage their profiles.
+A full-stack Netflix clone built with modern web technologies, replicating the core features of the original platform. Users can browse, search, stream movie trailers, view featured content, and manage their profiles.
 🚀 Features
 User Authentication (Login/Signup)
 
@@ -25,7 +25,6 @@ API: The Movie Database (TMDB) API
 Site Link: https://symphonious-profiterole-096124.netlify.app/
 
 📦 Setup Instructions
-![netflix-bg](https://github.com/user-attachments/assets/e8c51a34-684f-4fbf-9c36-b487ebfab2ac)
 
 Clone the repository
 
@@ -34,3 +33,5 @@ Run npm install
 Set up Firebase and TMDB API keys
 
 Run npm start
+
+![netflix-bg](https://github.com/user-attachments/assets/e8c51a34-684f-4fbf-9c36-b487ebfab2ac)
